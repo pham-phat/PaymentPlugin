@@ -28,7 +28,7 @@ Mục lục
 - [Yêu cầu hệ thống](#yêu-cầu-hệ-thống)
 - [Cài đặt nhanh](#cài-đặt-nhanh)
 - [Cấu hình chi tiết](#cấu-hình-chi-tiết)
-  - [Nạp thẻ (card) – card2k](#nạp-thẻ-card--card2k)
+  - [Nạp thẻ (card)](#nạp-thẻ-card--card2k)
   - [Nạp Ngân hàng (API)](#nạp-ngân-hàng-api)
   - [VietQR](#vietqr)
   - [Quy đổi điểm, lệnh thưởng](#quy-đổi-điểm-lệnh-thưởng)
@@ -73,8 +73,8 @@ Cài đặt nhanh
 
 Cấu hình chi tiết
 
-Nạp thẻ (card) – card2k
-Sử dụng card2k (chuẩn Nencer): ký md5(partner_key + code + serial)
+Nạp thẻ (card)
+Sử dụng card2k ,gachthe1s ,naptudong ,thesieure.
 
 ```yaml
 card:
@@ -279,4 +279,5 @@ Hỗ trợ & Liên hệ
 
 Bản quyền
 - © Aryaisme. Yêu cầu license-key hợp lệ để sử dụng.
+
 
